@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
 
 # Nusantara
 TARGET_USES_BLUR := true
+USE_PIXEL_CHARGING := true
 
 # Permissions
 PRODUCT_COPY_FILES += \
