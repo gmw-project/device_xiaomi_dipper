@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository":  "LineageOS/android_kernel_xiaomi_sdm845",
+    "repository":  "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "lineage-17.1"
+    "branch": "lineage-18.0"
     },
     {
     "remote": "gitlab",
