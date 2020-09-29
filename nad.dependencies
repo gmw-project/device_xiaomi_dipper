@@ -10,23 +10,11 @@
     "repository":  "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "lineage-18.0"
-  },
-  {
+    },
+    {
     "remote": "gitlab",
     "repository": "goodmeow/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "11"
-  },
-  { 
-    "remote": "nad",
-    "repository": "android_vendor_nxp_opensource_external_libnfc-nci",
-    "target_path": "vendor/nxp/opensource/external/libnfc-nci",
-    "branch": "11"
-  },
-  {
-    "remote": "nad",
-    "repository": "android_vendor_nxp_opensource_packages_apps_Nfc",
-    "target_path": "vendor/nxp/opensource/packages/apps/Nfc",
-    "branch": "11"
-  }
+    }
 ]
